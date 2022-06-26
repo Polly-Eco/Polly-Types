@@ -1,6 +1,3 @@
-import { add } from './example/example';
+import { Route } from './Polly-Core';
 
-const a = 5;
-const b = 3;
-
-console.log(add(a, b));
+export { Route };
