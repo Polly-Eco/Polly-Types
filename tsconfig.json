@@ -17,6 +17,6 @@
         "resolveJsonModule": true,
         "declaration": true,
     },
-    "include": ["./src/"],
+    "include": ["./src/", "index.ts"],
     "exclude": ["types"]
 }
