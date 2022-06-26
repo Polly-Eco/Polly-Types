@@ -1,3 +1,3 @@
 import { Route } from './Polly-Core';
 
-export { Route };
+export type { Route };
